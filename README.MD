@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a sandbox for SQL databases. This is databases are used for testing SQL purposes. 
+This is a sandbox for SQL databases. These databases are used for testing SQL purposes. 
 
 ## Installation
 ```bash
