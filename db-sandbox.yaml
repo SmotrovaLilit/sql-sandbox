@@ -1,0 +1,4 @@
+dsn:
+  mysql: "sandbox-mysql:password@tcp(127.0.0.1:3307)/sandbox-mysql?charset=utf8mb4&parseTime=True&loc=Local"
+  postgres: "host=localhost user=postgres password=postgres dbname=sandbox-postgres port=5433 sslmode=disable TimeZone=Asia/Shanghai"
+  mssql: "sqlserver://sa:Password123@localhost:1434?database=sandboxmssql"
