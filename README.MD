@@ -2,14 +2,20 @@
 
 ## Description
 
-This is a sandbox for SQL databases. These databases are used for testing SQL purposes. 
+This is a sandbox for SQL databases. These databases are used for testing differences in DBMS-s.
+
+DBMS:
+- Postgres
+- MySql
+- MSSql
+
 
 ## Installation
 ```bash
 docker-compose up -d
 ```
 
-## Restore databases
+## Fill databases
 ```bash
   make restore
 ```
